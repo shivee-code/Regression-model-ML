@@ -1,2 +1,4 @@
 # Regression-model-ML
-Build a models using Linear Regression Algorithm
+<b>Build a models using Linear Regression Algorithm</b>
+<br><br>
+In this model, we will perform Exploratory Data Analysis (EDA) and build both Simple and Multiple Linear Regression model using the dataset provided
